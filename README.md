@@ -1,5 +1,5 @@
 # minconlang
-Considerations and gadgets to analyse and design minimalist constructed languages
+Considerations and gadgets to analyze and design minimalist constructed languages
 
 # Considerations about minimalist conlangs
 
